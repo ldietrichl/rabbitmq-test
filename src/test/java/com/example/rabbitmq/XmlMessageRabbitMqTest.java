@@ -3,6 +3,7 @@ package com.example.rabbitmq;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
+import java.sql.SQLException;
 import java.util.concurrent.TimeoutException;
 
 public class XmlMessageRabbitMqTest extends AbstractRabbitMqTest {
